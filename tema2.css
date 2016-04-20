@@ -1,0 +1,34 @@
+div:houver{
+    color font: red;
+    background-color: yellow;
+    
+    
+}
+
+
+p{
+     font-size:20px;
+    color font: aliceblue;
+    
+}
+
+
+
+div{
+    color: #38d851
+}
+
+table{
+    border: 3px solid red;
+    
+}
+
+th{
+    text-align: left;
+    color: blue;
+    background-color:salmon;
+}
+
+a:houver{
+    color: deeppink;
+}
